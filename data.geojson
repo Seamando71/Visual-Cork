@@ -1,0 +1,1279 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+      "street": "Abbey Street",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Abbey Street</strong><p>Side of Cork: Island</p><p>Oath Group: 1-5 Oaths</p><p>No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.474046688330645, 51.89407830390161],
+            [-8.474046688330645, 51.89403751784806],
+            [-8.473991447899778, 51.89403751784806],
+            [-8.473991447899778, 51.89407830390161],
+            [-8.474046688330645, 51.89407830390161]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "street": "Academy Street",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Academy Street</strong><p>Side of Cork: island</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.47590533979752, 51.89938647600894],
+            [-8.47590533979752, 51.89932273782486],
+            [-8.47580204390988, 51.89932273782486],
+            [-8.47580204390988, 51.89938647600894],
+            [-8.47590533979752, 51.89938647600894]
+]
+        ],
+        "type": "Polygon"
+      },
+      "id": "2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "street": "Anne Street",        
+      "No. of oaths": 2,  
+        "height": 6,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Anne Street</strong><p>Side of Cork: island</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 1<p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.482445471912143, 51.89733139790334],
+            [-8.482445471912143, 51.89730413037901],
+            [-8.482390505715728, 51.89730413037901],
+            [-8.482390505715728, 51.89733139790334],
+            [-8.482445471912143, 51.89733139790334]
+]
+        ],
+        "type": "Polygon"
+      },
+      "id": "3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "street": "Bandon Road",        
+      "No. of oaths": 5,  
+        "height": 15,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Bandon Road</strong><p>Side of Cork: South</p><p>Oath Group: 1-5 Oaths</p><p>No. of oaths: 5</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.485772793990549, 51.891573473458095],
+            [-8.485772793990549, 51.89151554202863],
+            [-8.485681606981046, 51.89151554202863],
+            [-8.485681606981046, 51.891573473458095],
+            [-8.485772793990549, 51.891573473458095
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "street": "Barrack Street",        
+      "No. of oaths": 8,  
+        "height": 24,
+        "base_height": 1,
+        "color": "#e88223",
+        "description": "<strong>Barrack Street</strong><p>Side of Cork: South</p><p>Oath Group: 6-10 Oaths</p><p> No. of oaths: 8</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.47849280584046, 51.89345691868985],
+            [-8.47849280584046, 51.89341065551642],
+            [-8.478401776285608, 51.89341065551642],
+            [-8.478401776285608, 51.89345691868985],
+            [-8.47849280584046, 51.89345691868985]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "street": "Bachelor's Quay",        
+      "No. of oaths": 5,  
+        "height": 15,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Bachelor's Quay</strong><p>Side of Cork: North</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 5</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.48219906291132, 51.900464219477044],
+            [-8.48219906291132, 51.900415366562754],
+            [-8.482122933762582, 51.900415366562754],
+            [-8.482122933762582, 51.900464219477044],
+            [-8.48219906291132, 51.900464219477044]
+]
+        ],
+        "type": "Polygon"
+      },
+      "id": "6"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Waters's Mills, Blackpool",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Walter's Mills, Blackpool</strong><p>Side of Cork: island</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 1<p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.473570412404058, 51.90590259391118],
+            [-8.473570412404058, 51.90568954469748],
+            [-8.473290865181013, 51.90568954469748],
+            [-8.473290865181013, 51.90590259391118],
+            [-8.473570412404058, 51.90590259391118]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "7"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Blarney Lane",        
+      "No. of oaths": 6,  
+        "height": 18,
+        "base_height": 1,
+        "color": "#e88223",
+        "description": "<strong>Blarney Lane</strong><p>Side of Cork: North</p><p>Oath Group: 6-10 Oaths</p><p> No. of oaths: 6</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.495027541258565, 51.90111552171771],
+            [-8.495027541258565, 51.90105407183319],
+            [-8.494910375093212, 51.90105407183319],
+            [-8.494910375093212, 51.90111552171771],
+            [-8.495027541258565, 51.90111552171771]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "8"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Boyce's Street",        
+      "No. of oaths": 2,  
+        "height": 6,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Boyce's Street</strong><p>Side of Cork: North</p><p>Oath Group: 1-5 Oaths</p><p>No. of oaths: 2</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.485026874335574, 51.90227591262325],
+            [-8.485026874335574, 51.90216661839236],
+            [-8.484833131182825, 51.90216661839236],
+            [-8.484833131182825, 51.90227591262325],
+            [-8.485026874335574, 51.90227591262325]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "9"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Brandy Lane",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Ash Street</strong><p>Side of Cork: South</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.486638934494863, 51.89180603333543],
+            [-8.486638934494863, 51.89176826495469],
+            [-8.486579127173343, 51.89176826495469],
+            [-8.486579127173343, 51.89180603333543],
+            [-8.486638934494863, 51.89180603333543]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "10"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Broad Lane",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Broad Lane</strong><p>Side of Cork: island</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-6.260963947704369, 53.34652257228666],
+            [-6.260963947704369, 53.34649134870247],
+            [-6.260914326838019, 53.34649134870247],
+            [-6.260914326838019, 53.34652257228666],
+            [-6.260963947704369, 53.34652257228666]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "11"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Brunswick Street",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Brunswick Street</strong><p>Side of Cork: Island</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.475608451880191, 51.898385464728136],
+            [-8.475608451880191, 51.898305996931384],
+            [-8.475468878773825, 51.898305996931384],
+            [-8.475468878773825, 51.898385464728136],
+            [-8.475608451880191, 51.898385464728136]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "12"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Castle Street",        
+      "No. of oaths": 9,  
+        "height": 27,
+        "base_height": 1,
+        "color": "#e88223",
+        "description": "<strong>Castle Street</strong><p>Side of Cork: Island</p><p>Oath Group: 6-10 Oaths</p><p> No. of oaths: 9</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.476746143749097, 51.89871352223071],
+            [-8.476746143749097, 51.89865103221851],
+            [-8.476647685298417, 51.89865103221851],
+            [-8.476647685298417, 51.89871352223071],
+            [-8.476746143749097, 51.89871352223071]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "13"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Chapel Hill",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Chapel Hill</strong><p>Side of Cork: North</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.476148946551518, 51.90450822217221],
+            [-8.476148946551518, 51.90443326496177],
+            [-8.476027454959649, 51.90443326496177],
+            [-8.476027454959649, 51.90450822217221],
+            [-8.476148946551518, 51.90450822217221]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "14"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Churchyard Lane",        
+      "No. of oaths": 2,  
+        "height": 6,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Churchyard Lane</strong><p>Side of Cork: South</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 2</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.43352818985798, 51.890973554944935],
+            [-8.43352818985798, 51.890800487783224],
+            [-8.433237750048903, 51.890800487783224],
+            [-8.433237750048903, 51.890973554944935],
+            [-8.43352818985798, 51.890973554944935]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "15"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Coal Quay",        
+      "No. of oaths": 7,  
+        "height": 21,
+        "base_height": 1,
+        "color": "#e88223",
+        "description": "<strong>Coal Quay</strong><p>Side of Cork: island</p><p>Oath Group: 6-10 Oaths</p><p> No. of oaths: 7</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.47627867886439, 51.90078382991567],
+            [-8.47627867886439, 51.9006760681965],
+            [-8.476114947292842, 51.9006760681965],
+            [-8.476114947292842, 51.90078382991567],
+            [-8.47627867886439, 51.90078382991567]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "16"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Cove Lane",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Cove Lane</strong><p>Side of Cork: South</p><p>Oath Group: 1-5 Oaths</p><p>No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.474250205663736, 51.89491205416488],
+            [-8.474250205663736, 51.894873027348325],
+            [-8.474185299737371, 51.894873027348325],
+            [-8.474185299737371, 51.89491205416488],
+            [-8.474250205663736, 51.89491205416488]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "17"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Eason's Hill",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Eason's Hill</strong><p>Side of Cork: North</p><p>Oath Group: 1-5 Oaths</p><p>No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.474728468313003, 51.904415526689576],
+            [-8.474728468313003, 51.90436912745881],
+            [-8.474644907950022, 51.90436912745881],
+            [-8.474644907950022, 51.904415526689576],
+            [-8.474728468313003, 51.904415526689576]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "18"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Friar's Walk",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Friar's Walk</strong><p>Side of Cork: South</p><p>Oath Group: 1-5 Oaths</p><p>No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.475646541106585, 51.88926964403197],
+            [-8.475646541106585, 51.889199602345144],
+            [-8.475524751295751, 51.889199602345144],
+            [-8.475524751295751, 51.88926964403197],
+            [-8.475646541106585, 51.88926964403197]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "19"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Fullers Lane",        
+      "No. of oaths": 2,  
+        "height": 6,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Fullers Lane</strong><p>Side of Cork: South</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 2</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.485025671037675, 51.89249182170218],
+            [-8.485025671037675, 51.89240963973543],
+            [-8.48490637655371, 51.89240963973543],
+            [-8.48490637655371, 51.89249182170218],
+            [-8.485025671037675, 51.89249182170218]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "20"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "George's Quay",        
+      "No. of oaths": 2,  
+        "height": 6,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>George's Quay</strong><p>Side of Cork: South</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 2</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.470895106901054, 51.89519864303395],
+            [-8.470895106901054, 51.89507557446524],
+            [-8.470712296387376, 51.89507557446524],
+            [-8.470712296387376, 51.89519864303395],
+            [-8.470895106901054, 51.89519864303395]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "21"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "George's Street",        
+      "No. of oaths": 4,  
+        "height": 12,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>George's Street</strong><p>Side of Cork: Usland</p><p>Oath Group: 1-5 Oaths</p><p>No. of oaths: 4</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.470476961139696, 51.89797404270817],
+            [-8.470476961139696, 51.89795684990304],
+            [-8.470446241188995, 51.89795684990304],
+            [-8.470446241188995, 51.89797404270817],
+            [-8.470476961139696, 51.89797404270817]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "22"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Grand Parade",        
+      "No. of oaths": 8,  
+        "height": 24,
+        "base_height": 1,
+        "color": "#e88223",
+        "description": "<strong>Grand Parade</strong><p>Side of Cork: Island</p><p>Oath Group: 6-10 Oaths</p><p> No. of oaths: 8</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.47503124807804, 51.89725973896677],
+            [-8.47503124807804, 51.89719692425055],
+            [-8.47492040520828, 51.89719692425055],
+            [-8.47492040520828, 51.89725973896677],
+            [-8.47503124807804, 51.89725973896677]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "23"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Grattan Street",        
+      "No. of oaths": 2,  
+        "height": 6,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Grattan Street</strong><p>Side of Cork: Island</p><p>Oath Group: 1-5 Oaths</p><p>No. of oaths: 2</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.480019384946473, 51.89912483773486],
+            [-8.480019384946473, 51.899054767826755],
+            [-8.479909744102969, 51.899054767826755],
+            [-8.479909744102969, 51.89912483773486],
+            [-8.480019384946473, 51.89912483773486]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "24"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Half Moon Street",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Half Moon Street</strong><p>Side of Cork: Island</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.473674824080916, 51.90013580671345],
+            [-8.473674824080916, 51.900079351170774],
+            [-8.473565030119715, 51.900079351170774],
+            [-8.473565030119715, 51.90013580671345],
+            [-8.473674824080916, 51.90013580671345]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "25"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Hanover Street",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Hanover Street</strong><p>Side of Cork: Island</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.478675467896238, 51.897219692299075],
+            [-8.478675467896238, 51.89713923954773],
+            [-8.478548433241627, 51.89713923954773],
+            [-8.478548433241627, 51.897219692299075],
+            [-8.478675467896238, 51.897219692299075]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "26"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Harpur's Lane",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Harpur's Lane</strong><p>Side of Cork: Island</p><p>Oath Group: 1-5 Oaths</p><p>No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.47547396236726, 51.90004510434946],
+            [-8.47547396236726, 51.899996320947196],
+            [-8.475394901445952, 51.899996320947196],
+            [-8.475394901445952, 51.90004510434946],
+            [-8.47547396236726, 51.90004510434946]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "27"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Holders Lane",        
+      "No. of oaths": 2,  
+        "height": 6,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Holders Lane</strong><p>Side of Cork: North</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 2</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.475994585743877, 51.90656654095196],
+            [-8.475994585743877, 51.90651738215726],
+            [-8.4759107476128, 51.90651738215726],
+            [-8.4759107476128, 51.90656654095196],
+            [-8.475994585743877, 51.90656654095196]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "28"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Kyrl's Quay",        
+      "No. of oaths": 2,  
+        "height": 6,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Kyrl's Quay</strong><p>Side of Cork: Island</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 2</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.477783463519671, 51.90118190506345],
+            [-8.477783463519671, 51.901108181729],
+            [-8.477654255306703, 51.901108181729],
+            [-8.477654255306703, 51.90118190506345],
+            [-8.477783463519671, 51.90118190506345]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "29"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Leitrim Street",        
+      "No. of oaths": 4,  
+        "height": 12,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Leitrim Street</strong><p>Side of Cork: North</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 4</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.474674799545681, 51.903758161197345],
+            [-8.474674799545681, 51.90372031057805],
+            [-8.474613451782432, 51.90372031057805],
+            [-8.474613451782432, 51.903758161197345],
+            [-8.474674799545681, 51.903758161197345]
+          ]
+          ],
+        "type": "Polygon"
+      },
+      "id": "30"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Little Cross Street",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Little Cross Street</strong><p>Side of Cork: Island</p><p>Oath Group: 1-5 Oaths</p><p>No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.478327937381437, 51.89750541401179],
+            [-8.478327937381437, 51.89745393811273],
+            [-8.478227833616643, 51.89745393811273],
+            [-8.478227833616643, 51.89750541401179],
+            [-8.478327937381437, 51.89750541401179]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "31"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Mallow Lane",        
+      "No. of oaths": 27,  
+        "height": 81,
+        "base_height": 1,
+        "color": "#379404",
+        "description": "<strong>Mallow Lane</strong><p>Side of Cork: North</p><p>Oath Group: 21-40 Oaths</p><p> No. of oaths: 27</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.47374138207985, 51.91069420105285],
+            [-8.47374138207985, 51.9105572540048],
+            [-8.473482386837219, 51.9105572540048],
+            [-8.473482386837219, 51.91069420105285],
+            [-8.47374138207985, 51.91069420105285]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "32"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Maypole Lane, South Liberties Cork",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Maypole Lane, South Liberties Cork</strong><p>Side of Cork: South</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.475930580770438, 51.8944196423943],
+            [-8.475930580770438, 51.89433797679817],
+            [-8.475798245872454, 51.89433797679817],
+            [-8.475798245872454, 51.8944196423943],
+            [-8.475930580770438, 51.8944196423943]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "33"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Merchants Quay",        
+      "No. of oaths": 4,  
+        "height": 12,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Merchants Quay</strong><p>Side of Cork: Island</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 4</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.467221570037452, 51.89994907568149],
+            [-8.467221570037452, 51.89988158682473],
+            [-8.467097003268805, 51.89988158682473],
+            [-8.467097003268805, 51.89994907568149],
+            [-8.467221570037452, 51.89994907568149]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "34"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Morrison's Island",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Morrison's Island</strong><p>Side of Cork: Island</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.469170359464016, 51.89598269312745],
+            [-8.469170359464016, 51.89591958486952],
+            [-8.469064304522306, 51.89591958486952],
+            [-8.469064304522306, 51.89598269312745],
+            [-8.469170359464016, 51.89598269312745]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "35"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "North Abbey",        
+      "No. of oaths": 3,  
+        "height": 9,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>North Abbey</strong><p>Side of Cork: Island</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 3</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.480269776711964, 51.90156894185091],
+            [-8.480269776711964, 51.90153174787264],
+            [-8.480177346536038, 51.90153174787264],
+            [-8.480177346536038, 51.90156894185091],
+            [-8.480269776711964, 51.90156894185091]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "36"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "North Liberty",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>North Liberty</strong><p>Side of Cork: North</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.470100700454282, 51.935718876734285],
+            [-8.470100700454282, 51.93516997300355],
+            [-8.46921041633712, 51.93516997300355],
+            [-8.46921041633712, 51.935718876734285],
+            [-8.470100700454282, 51.935718876734285]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "37"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "North Main Street",        
+      "No. of oaths": 11,  
+        "height": 33,
+        "base_height": 1,
+        "color": "#e0d94c",
+        "description": "<strong>North Main Street</strong><p>Side of Cork: Island</p><p>Oath Group: 11-20 Oaths</p><p> No. of oaths: 11</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.479282959458061, 51.900702870980865],
+            [-8.479282959458061, 51.90064757570278],
+            [-8.479186942624324, 51.90064757570278],
+            [-8.479186942624324, 51.900702870980865],
+            [-8.479282959458061, 51.900702870980865]
+          ]           
+        ],
+        "type": "Polygon"
+      },
+      "id": "38"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "North Mall",        
+      "No. of oaths": 5,  
+        "height": 15,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>North Mall</strong><p>Side of Cork: North</p><p>Oath Group: 1-5 Oaths</p><p>No. of oaths: 5</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.481499401608659, 51.90106024914789],
+            [-8.481499401608659, 51.90099992878311],
+            [-8.481369868920297, 51.90099992878311],
+            [-8.481369868920297, 51.90106024914789],
+            [-8.481499401608659, 51.90106024914789]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "39"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Patrick Street",        
+      "No. of oaths": 3,  
+        "height": 9,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Patrick Street</strong><p>Side of Cork: Island</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 3</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.472591745975421, 51.898448984063094],
+            [-8.472591745975421, 51.89832627600191],
+            [-8.472362292309896, 51.89832627600191],
+            [-8.472362292309896, 51.898448984063094],
+            [-8.472591745975421, 51.898448984063094]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "40"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Phoenix tavern, Main Street (Near Exchange)",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Phoenix tavern, Main Street (Near Exchange)<p>Side of Cork: Island</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.477421352882885, 51.89840899897095],
+            [-8.477421352882885, 51.89832856850657],
+            [-8.477284490627369, 51.89832856850657],
+            [-8.477284490627369, 51.89840899897095],
+            [-8.477421352882885, 51.89840899897095]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "41"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Peter's Street, Hammond's Marsh",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Peter's Street, Hamon's Marsh</strong><p>Side of Cork: Island</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.481560169781915, 51.898823010176386],
+            [-8.481560169781915, 51.898768248951114],
+            [-8.481475426909554, 51.898768248951114],
+            [-8.481475426909554, 51.898823010176386],
+            [-8.481560169781915, 51.898823010176386]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "42"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Quarry Lane",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Quarry Lane</strong><p>Side of Cork: North</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.479821356279416, 51.90599122712601],
+            [-8.479821356279416, 51.90584809241247],
+            [-8.479589354247707, 51.90584809241247],
+            [-8.479589354247707, 51.90599122712601],
+            [-8.479821356279416, 51.90599122712601]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "43"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Roman's Walk",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Roman's Walk</strong><p>Side of Cork: North</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.474408744661844, 51.90214188651271],
+            [-8.474408744661844, 51.902128466503],
+            [-8.47438264443312, 51.902128466503],
+            [-8.47438264443312, 51.90214188651271],
+            [-8.474408744661844, 51.90214188651271]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "44"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Sand Quay",        
+      "No. of oaths": 2,  
+        "height": 6,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Sand Quay</strong><p>Side of Cork: Island</p><p>Oath Group: 1-5 Oaths</p><p>No. of oaths: 2</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.473323399812784, 51.902711532751226],
+            [-8.473323399812784, 51.902578642757675],
+            [-8.473149324739126, 51.902578642757675],
+            [-8.473149324739126, 51.902711532751226],
+            [-8.473323399812784, 51.902711532751226]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "45"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Shandon Castle Lane",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Shandon Castle Lane</strong><p>Side of Cork: North</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 1<p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.480250495633328, 51.906428549107346],
+            [-8.480250495633328, 51.90631109106292],
+            [-8.48006804283446, 51.90631109106292],
+            [-8.48006804283446, 51.906428549107346],
+            [-8.480250495633328, 51.906428549107346]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "46"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Shandon Street",        
+      "No. of oaths": 2,  
+        "height": 6,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Shandon Street</strong><p>Side of Cork: North</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 2</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.478641596983238, 51.90249709596944],
+            [-8.478641596983238, 51.902446319224396],
+            [-8.478546238211436, 51.902446319224396],
+            [-8.478546238211436, 51.90249709596944],
+            [-8.478641596983238, 51.90249709596944]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "47"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "South Main Street",        
+      "No. of oaths": 10,  
+        "height": 30,
+        "base_height": 1,
+        "color": "#e88223",
+        "description": "<strong>South Main Street</strong><p>Side of Cork: Island</p><p>Oath Group: 6-10 Oaths</p><p> No. of oaths: 10</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.476718673231545, 51.89656456782262],
+            [-8.476718673231545, 51.896479020684694],
+            [-8.476590705832479, 51.896479020684694],
+            [-8.476590705832479, 51.89656456782262],
+            [-8.476718673231545, 51.89656456782262]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "48"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "South Mall",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>South Mall</strong><p>Side of Cork: Island</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.47139214606247, 51.89677045869968],
+            [-8.47139214606247, 51.89670778735126],
+            [-8.471275538952028, 51.89670778735126],
+            [-8.471275538952028, 51.89677045869968],
+            [-8.47139214606247, 51.89677045869968]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "49"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "St. Peter's Church Lane",        
+      "No. of oaths": 3,  
+        "height": 9,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>St. Peter's Church Lane</strong><p>Side of Cork: Island</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 3</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.479089249355042, 51.89939714202521],
+            [-8.479089249355042, 51.89936980665428],
+            [-8.479030182025639, 51.89936980665428],
+            [-8.479030182025639, 51.89939714202521],
+            [-8.479089249355042, 51.89939714202521]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "50"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Sullivan's Quay",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Sullivan's Quay</strong><p>Side of Cork: South</p><p>Oath Group: 1-5 Oaths</p><p> No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.47400962376878, 51.89568645472602],
+            [-8.47400962376878, 51.895633670309934],
+            [-8.473906389614484, 51.895633670309934],
+            [-8.473906389614484, 51.89568645472602],
+            [-8.47400962376878, 51.89568645472602]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "51"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "Sunday's Well",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>Sunday's Well</strong><p>Side of Cork: North</p><p>Oath Group: 1-5 Oaths</p><p>No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.490741519481304, 51.89961028513841],
+            [-8.490741519481304, 51.8995342300347],
+            [-8.490566363902872, 51.8995342300347],
+            [-8.490566363902872, 51.89961028513841],
+            [-8.490741519481304, 51.89961028513841]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "52"
+    },
+    {
+      "type": "Feature",
+"properties": {
+      "street": "White Street",        
+      "No. of oaths": 1,  
+        "height": 3,
+        "base_height": 1,
+        "color": "#ba1e1e",
+        "description": "<strong>White Street</strong><p>Side of Cork: South</p><p>Oath Group: 1-5 Oaths</p><p>No. of oaths: 1</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-8.469742921365622, 51.89462419129907],
+            [-8.469742921365622, 51.89454904014033],
+            [-8.469611268230409, 51.89454904014033],
+            [-8.469611268230409, 51.89462419129907],
+            [-8.469742921365622, 51.89462419129907]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "53"
+    }
+  ],
+  "type": "FeatureCollection"
+}
+
